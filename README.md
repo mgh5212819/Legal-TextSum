@@ -8,6 +8,8 @@ sfzy 为比赛方给的第一个基线，简单修改的lead3
 
 TextRank 为TextRank的算法实现
 
+abstract_summary 为生成式摘要的实现
+
 ## 所需要的环境
 
 jieba >= 0.35
